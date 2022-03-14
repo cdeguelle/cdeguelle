@@ -9,6 +9,10 @@
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![Symfony](https://img.shields.io/badge/symfony-%23000000.svg?style=for-the-badge&logo=symfony&logoColor=white)
 
-I am a full stack developper and currently student at [O'clock](https://oclock.io/) 🚀
+🚀 I am a full stack developper and currently student at [O'clock](https://oclock.io/) 🚀
 
-This is a sample page.
+⌛ After 3 years working in the chemical and pharmaceutical industry and being passionate about the web and new technologies, I decided to go back to school and train in a field that fascinates me. I therefore turned to training with the Openclassrooms school which ended in success, so I obtained a license as a Front-end Developer and acquired all the skills necessary to exercise this profession.
+
+📚 I am now turning to another training course with the O'clock school as a full stack developer to increase my skills and gain professional experience.
+
+🚀 I also work as a freelance developer on some ongoing projects.
