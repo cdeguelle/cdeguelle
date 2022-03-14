@@ -16,3 +16,5 @@
 📚 I am now turning to another training course with the O'clock school as a full stack developer to increase my skills and gain professional experience.
 
 🚀 I also work as a freelance developer on some ongoing projects.
+
+🔮 You can see all my works on my portfolio at the address : http://clementdeguelle.fr/
